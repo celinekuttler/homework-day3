@@ -51,14 +51,14 @@ A weather prediction system built with FastMCP and Agent Bricks that answers nat
 
 ### Alpaca Markets Paper-Trading MCP Server (Previous)
 
-For the Alpaca Markets paper-trading project from earlier homework, see [`README_ALPACA.md`](README_ALPACA.md).
+For the Alpaca Markets paper-trading project shown in the lecture by Zach Wilson, see [`README_ALPACA.md`](README_ALPACA.md).
 
 ## Repository Structure
 
 ```
 homework-day3/
 ├── README.md                    # This file - main project overview
-├── README_ALPACA.md            # Alpaca Markets paper-trading project documentation
+├── README_ALPACA.md             # from lecture: Alpaca Markets paper-trading project documentation
 ├── screenshots/                 # Demo screenshots for Weather MCP project
 │   ├── agent_uses_my_mcp_server.png
 │   ├── whats_the_weather_in_berlin_today.png
@@ -72,7 +72,7 @@ homework-day3/
 │   ├── requirements.txt
 │   └── README.md               # Full weather project documentation
 ├── mcp_server/                 # Alpaca MCP server
-├── dashboard/                  # Paper-trading dashboard
+├── dashboard/                  # from lecture: Paper-trading dashboard
 └── setup_secrets.py            # Secret configuration utility
 ```
 
