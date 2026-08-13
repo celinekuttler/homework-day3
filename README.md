@@ -1,6 +1,6 @@
 # The Rise of the AI Data Engineer - Homework Day 3
 
-This repository contains my third homework projects from **[The Rise of the AI Data Engineer](https://learn.dataexpert.io/)** bootcamp by Zach Wilson in August 2026, focusing on AI data engineering on Databricks with MCP (Model Context Protocol) servers and Agent Bricks agents.
+This repository contains my third homework project from **[The Rise of the AI Data Engineer](https://learn.dataexpert.io/)** bootcamp by Zach Wilson in August 2026, focusing on AI data engineering on Databricks with MCP (Model Context Protocol) servers and Agent Bricks agents.
 
 ## Projects
 
@@ -18,10 +18,9 @@ A weather prediction system built with FastMCP and Agent Bricks that answers nat
 - Location comparison
 
 **Example questions:**
-- "What's the weather in Chicago right now?"
+- "What's the weather in Berlin today?"
 - "What should I wear in London tomorrow?"
-- "Should we go to Austin or Chicago this weekend?"
-- "Is there any severe weather near me?"
+- "Is there any severe weather in the US right now?"
 
 **Example interactions:**
 
